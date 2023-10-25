@@ -1,0 +1,3 @@
+# Easy-calculator
+Setting a C preogramm for an easy lw\earnng
+Follwing calculator is an simple easy calculator for beginners who are learning C programming or have just started coding. In the program user is able to give thr input and in return he/she gets the result in the console. The programm is cable of calculating only single set of calculation at once, User can use only these operator in the calculation (+,*,-,/). 
